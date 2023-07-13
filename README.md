@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on multiple flutter projects [links](https://play.google.com/store/apps/developer?id=Coddrikaz)
 
-- 👨‍💻 All of my projects are available at [github.com/coddrikaz](github.com/coddrikaz)
+- 👨‍💻 All of my projects are available at [github.com/coddrikaz](https://github.com/coddrikaz)
 
 - 💬 Ask me about **Flutter, Firebase, Android and ios etc**
 
