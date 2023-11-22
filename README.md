@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coddrikaz&label=Profile%20views&color=0e75b6&style=flat" alt="coddrikaz" /> </p>
 
-- 🔭 I’m currently working on multiple flutter projects<br> Our Green Planet(VoisPalanet) - [PlayStore](https://play.google.com/store/apps/details?id=com.vi.ourgreenplanet)<br> RKSK(AFHC) - [AppleStore](https://apps.apple.com/in/app/afhc/id1537557739) [Playstore](https://play.google.com/store/apps/details?id=com.indev.afhc)
+- 🔭 I’m currently working on multiple flutter projects<br> Our Green Planet (VoisPalanet) - [PlayStore](https://play.google.com/store/apps/details?id=com.vi.ourgreenplanet)<br> RKSK (AFHC) - [AppleStore](https://apps.apple.com/in/app/afhc/id1537557739) [Playstore](https://play.google.com/store/apps/details?id=com.indev.afhc)<br> - StarApp from Sightsaver - [Playstore](https://play.google.com/store/apps/details?id=com.indev.sightsavers)
 
 - 👨‍💻 All of my projects are available at [github.com/coddrikaz](https://github.com/coddrikaz)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **coddrikaz@gmail.com**
 
-- ⚡ Play Store **play.google.com/store/apps/developer?id=Coddrikaz**
+- ⚡ Play Store [**myOwn Console**](https://play.google.com/store/apps/developer?id=Coddrikaz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
