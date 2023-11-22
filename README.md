@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coddrikaz&label=Profile%20views&color=0e75b6&style=flat" alt="coddrikaz" /> </p>
 
-- 🔭 I’m currently working on multiple flutter projects [links](https://play.google.com/store/apps/developer?id=Coddrikaz)
+- 🔭 I’m currently working on multiple flutter projects [links](https://play.google.com/store/apps/developer?id=Coddrikaz) [myOwn](https://play.google.com/store/apps/developer?id=Coddrikaz)
 
 - 👨‍💻 All of my projects are available at [github.com/coddrikaz](https://github.com/coddrikaz)
 
